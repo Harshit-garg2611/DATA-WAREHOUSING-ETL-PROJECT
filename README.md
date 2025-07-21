@@ -5,12 +5,14 @@ Centralised Repository for the purpose of storage , reporting and analysis of da
 - subject-oriented : Focus on business area
 - integrated : connect multiple sources of data 
 - non volatile 
+- ![Data Warehiuse](./Image/what%20is%20a%20data%20warehouse%20(update).jpg)
 
 # ETL (EXTRACT-TRANSFORM-LOAD) : 
  It is a process used to combine data from multiple sources into a large, central repository called a data warehouse.
  The process involves extracting data from different sources, transforming it to fit the target system's requirements, and loading it into the target system.
  ![ETL](./Image/What-Is-ETL-1536x313.png)
  > A staging area is an intermediate storage location where raw data is temporarily held and processed before being loaded into a data warehouse or database for further analysis.
+ > Transformation includes data cleansing, data integration, data normalisations 
 
 ## ETL v/s ELT
 ETL uses the Schema-On-Write approach to transform data before it enters the warehouse. Meanwhile, ELT uses the Schema-On-Read approach to transform data within the data warehouse or lake.
