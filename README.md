@@ -22,3 +22,15 @@ ETL is used for smaller data sets, whereas ELT is used for larger volumes of dat
 [![](https://mermaid.ink/img/pako:eNp1jstuwjAQRX8lmlUrAYrjgBMvuiG8KnZ01aaLUWIeKrHR4KjQkH9vCC6lVeuV77nnWq4gM7kCCcutec_WSNZ7SlLtNWdYLUxJmdrXLnvd7kPycoHs9QaOHAxu4dhB7mByhqfRwRLa7tZgfvImd3M8KvLY_UUZ3SrzP5Xxt5L950x-OE-Eer80VDh76uzA2dPW_m3NnMWdNWutS_fourDpoAMr2uQgLZWqA4WiAs8RqvMuBbtWhUpBNtcc6S2FVNfNZof62Zjia0amXK1BLnG7b1K5y9GqZIMrwuJKsbRmcdTZdaN0rmhoSm1BRj5vHwVZwQFkwMNeHDDG2cBnUT9uyiNIPuhFIRcRE6HPhC9Y3YGP9hd-LxpwEcc85kwInwf9-hPC-KH-?type=png)](https://mermaid.live/edit#pako:eNp1jstuwjAQRX8lmlUrAYrjgBMvuiG8KnZ01aaLUWIeKrHR4KjQkH9vCC6lVeuV77nnWq4gM7kCCcutec_WSNZ7SlLtNWdYLUxJmdrXLnvd7kPycoHs9QaOHAxu4dhB7mByhqfRwRLa7tZgfvImd3M8KvLY_UUZ3SrzP5Xxt5L950x-OE-Eer80VDh76uzA2dPW_m3NnMWdNWutS_fourDpoAMr2uQgLZWqA4WiAs8RqvMuBbtWhUpBNtcc6S2FVNfNZof62Zjia0amXK1BLnG7b1K5y9GqZIMrwuJKsbRmcdTZdaN0rmhoSm1BRj5vHwVZwQFkwMNeHDDG2cBnUT9uyiNIPuhFIRcRE6HPhC9Y3YGP9hd-LxpwEcc85kwInwf9-hPC-KH-)
 # Overview 
 ![alt text](./Image/image.png)
+
+# Which methods I use in this project : 
+### Extracion : 
+1. Extraction method : pull extraction 
+2. Extraction type : Full Extraction 
+3. Extraction Techniques : File Parsing 
+### Transformation : 
+1. Max all types 
+### Load :
+1. Processing Type : Batch Processing 
+2. Load methods : Full loads 
+3. SCD1 : Oerwrite 
