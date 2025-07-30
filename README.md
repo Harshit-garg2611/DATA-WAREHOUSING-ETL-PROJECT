@@ -1,5 +1,6 @@
 # DATA-WAREHOUSING-ETL-PROJECT
 
+[WorkFlow Notion](https://www.notion.so/SQL-Data-Warehouse-Project-23e686800ad58063811eff34d6cf1af9?source=copy_link)
 # Data Warehousing : 
 Centralised Repository for the purpose of storage , reporting and analysis of data .
 - subject-oriented : Focus on business area
@@ -33,4 +34,6 @@ ETL is used for smaller data sets, whereas ELT is used for larger volumes of dat
 ### Load :
 1. Processing Type : Batch Processing 
 2. Load methods : Full loads 
-3. SCD1 : Oerwrite 
+3. SCD1(Slowly Changing Dimension) : Overwrite 
+
+
